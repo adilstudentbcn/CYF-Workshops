@@ -22,5 +22,8 @@ a) what will `result1` evaluate to? Explain your answer
 b) What will `result2` evaluate to? Explain your answer
 c) Try to summarise the main difference between `logSum` and `calculateSum`
 
+// result1 = 42 because we call the function calculateSum that takes 2 parameters a and b and does the sum of the two.
 
-{YOUR ANSWERS HERE}
+// log to the console the number 42 because the func logSum takes 2 parameters a and b and log the sum of the two to the console.
+
+// calculateSum simply does the sum of 2 parameters and logSum has an extra function of loging the sum to the console.
