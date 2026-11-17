@@ -1,4 +1,4 @@
-let total = console.log(10,32);
+let total = console.log(10, 32);
 
 console.log(total);
 
